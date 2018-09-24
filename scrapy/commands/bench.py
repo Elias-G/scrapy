@@ -8,6 +8,7 @@ import scrapy
 from scrapy.commands import ScrapyCommand
 from scrapy.linkextractors import LinkExtractor
 
+#HELLO HARD WORK WORK
 
 class Command(ScrapyCommand):
 
